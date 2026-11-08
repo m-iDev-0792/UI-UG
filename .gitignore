@@ -10,3 +10,4 @@ venv/
 /weights/
 /checkpoints/
 /rendered/
+models-mlx-8bit/
